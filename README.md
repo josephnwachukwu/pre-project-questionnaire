@@ -17,17 +17,17 @@ A short questionnaire to help establish a consistent workflow and implement basi
 
 ## CSS
 ### Will you be using a css preprocessor? 
-- Will you be using a preprocessor like [less](), [sass]() or [stylus]()?
+- Will you be using a preprocessor like [less](http://lesscss.org/), [sass](http://sass-lang.com/) or [stylus](http://stylus-lang.com/)?
 ### Will there be postprocessors in your build?
-- Will you have any post processors like [post-css]() or [autoprefixer]()?
+- Will you have any post processors like [post-css](http://postcss.org/) or [autoprefixer](https://autoprefixer.github.io/)?
 ### Will you be using any css framworks?
-- Will you be using any css frameworks like [boostrap](), [foundation]() or [reflex-grid]()?
+- Will you be using any css frameworks like [bootstrap](http://getbootstrap.com/), [foundation](http://foundation.zurb.com/) or [reflex-grid](http://leejordan.github.io/reflex/docs/)?
 ### Will you be using any animation frameworks?
-- Will you be using any animation frameworks like [green sock]()?
+- Will you be using any animation frameworks like [green sock](https://greensock.com/)?
 ### Will you be using any css methodology?
-- Will you be using any css methodology like [OOCSS](), [BEM](), [SMACSS](https://smacss.com/) or [Material Design](https://material.io/guidelines/)
+- Will you be using any css methodology like [OOCSS](https://github.com/stubbornella/oocss/wiki), [BEM](http://getbem.com/), [SMACSS](https://smacss.com/) or [Material Design](https://material.io/guidelines/)
 ### Will you be following any css standards for linting?
-- Will you be using a linter like [stylelint]() or [stylefmt]() in your development?
+- Will you be using a linter like [stylelint](https://github.com/stylelint/stylelint) or [stylefmt](https://github.com/morishitter/stylefmt) in your development?
 
 ## JavaScript
 
