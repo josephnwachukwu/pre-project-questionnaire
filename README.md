@@ -13,7 +13,7 @@ A short questionnaire to help establish a consistent workflow and implement basi
 ### Will you be following any Javascript Principles?
 Will you be using any js standards such as [JavaScript Standard Style](https://standardjs.com/)
 ### What Frameworks will you be using?
-Will be using Angular, React, Vue, Vanilla Js or one of the other frameworks?
+Will be using [Angular](https://angular.io/), [React](https://facebook.github.io/react/), [VueJs](https://vuejs.org/), Vanilla Js or one of the other frameworks?
 ### What third party scripts will you be using?
 Are they well supported?
 how large are the libraries? will have an impact on page load?
@@ -21,7 +21,7 @@ Should you use cdn or call it from a local dependency?
 ### What polyfills and shims will you be using?
 will they cover all browsers and platforms?
 ### Will you be using any library for state management?
-will you be using redux, reflux, reactiveX, mobx?
+will you be using [redux](http://redux.js.org/), [reflux](https://github.com/reflux/refluxjs), [ReactiveX](http://reactivex.io/), [mobx](https://github.com/mobxjs/mobx)?
 
 ## Fonts and Media
 
