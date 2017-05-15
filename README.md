@@ -11,7 +11,7 @@ A short questionnaire to help establish a consistent workflow and implement basi
 ## JavaScript
 
 ### Will you be following any Javascript Principles?
-Will you be using any js standards such as [idomaticjs](https://github.com/rwaldron/idiomatic.js/) [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)
+Will you be using any js standards such as [idomaticjs](https://github.com/rwaldron/idiomatic.js/), [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)
 ### What Frameworks will you be using?
 Will be using [Angular](https://angular.io/), [React](https://facebook.github.io/react/), [VueJs](https://vuejs.org/), Vanilla Js or one of the other frameworks?
 ### What third party scripts will you be using?
@@ -24,7 +24,12 @@ will they cover all browsers and platforms?
 will you be using [redux](http://redux.js.org/), [reflux](https://github.com/reflux/refluxjs), [ReactiveX](http://reactivex.io/), [mobx](https://github.com/mobxjs/mobx)?
 
 ## Fonts and Media
+### Are you using any tools to optimize image loading?
+Will you be using any svg or image compressors. 
+### Are you using any libary to handle icons?
 
+### Are you using custom fonts?
+Are you downloading fonts from a CDN or are they being served from your source?
 
 ## Accessibility
 
