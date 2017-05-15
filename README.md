@@ -10,6 +10,10 @@ A short questionnaire to help establish a consistent workflow and implement basi
 
 ## JavaScript
 
+### Will you be following any Javascript Principles?
+Will you be using any js standards such as [JavaScript Standard Style](https://standardjs.com/)
+### What Frameworks will you be using?
+Will be using Angular, React, Vue, Vanilla Js or one of the other frameworks?
 
 ## Fonts and Media
 
