@@ -10,9 +10,9 @@ A short questionnaire to help establish a consistent workflow and implement basi
 ### Will your markup be adhering to any standards
 - Will you be following standards like [W3C Standards](https://www.w3.org/standards/)?
 ### Will you be using any templating or a preprocessor?
-- Will you be using an template engine like Mustache or Handlebars?
-- Will you be using a preprocessor like HAML or Jade?
-- Will you be writing your html in JSX for react or string literals for angular and typescript?
+- Will you be using an template engine like [Mustache](https://mustache.github.io/) or [Handlebars](http://handlebarsjs.com/)?
+- Will you be using a preprocessor like [HAML](http://haml.info/) or [Jade](https://www.npmjs.com/package/jade)?
+- Will you be writing your html in [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) for react or [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) for angular and typescript?
 
 
 ## CSS
