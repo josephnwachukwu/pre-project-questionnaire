@@ -46,21 +46,25 @@ A short questionnaire to help establish a consistent workflow and implement basi
 
 ## Fonts and Media
 ### Are you using any tools to optimize image loading?
-- Will you be using any svg or image compressors. such as[pngcrush](https://pmt.sourceforge.io/pngcrush/) or [svgCleaner](https://github.com/RazrFalcon/svgcleaner)? here is a list of more [tools](https://addyosmani.com/blog/image-optimization-tools/)
+- Will you be using any svg or image compressors. such as[pngcrush](https://pmt.sourceforge.io/pngcrush/) or [svgCleaner](https://github.com/RazrFalcon/svgcleaner)? here is a list of more [tools](https://addyosmani.com/blog/image-optimization-tools/)?
 ### Are you using any libary to handle icons?
-- Will you be using a library like [Font Awesome](http://fontawesome.io/)
+- Will you be using a library like [Font Awesome](http://fontawesome.io/)?
 ### Are you using custom fonts?
 - Are you downloading fonts from a CDN or are they being served from your source?
 
 ## Accessibility
-### Are you following any acceibility checklist? 
+### Are you following any accessibility checklist? 
 - Are you using a checklist such as [this](http://a11yproject.com/checklist.html)?
-### Are you 
+### Are you following section 508 compliance
+- Are you using section 508 complance and following their [guidelines](https://www.section508.gov/content/build/website-accessibility-improvement)?
 
 
 ## Build Process and Deployment
-
-
+### Are you using any build tools and task managers for development?
+- Are you using [grunt](https://gruntjs.com/) or [gulp](http://gulpjs.com/) or just pure node scripts?
+### Are you using a module loader?
+- Are you using a module loader like [webpack](https://webpack.github.io/) or [browserify](http://browserify.org/)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 ## Continuous Integration and Version Control
 
 
