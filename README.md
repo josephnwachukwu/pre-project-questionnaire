@@ -11,7 +11,7 @@ A short questionnaire to help establish a consistent workflow and implement basi
 ## JavaScript
 
 ### Will you be following any Javascript Principles?
-Will you be using any js standards such as [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)
+Will you be using any js standards such as [idomaticjs](https://github.com/rwaldron/idiomatic.js/) [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)
 ### What Frameworks will you be using?
 Will be using [Angular](https://angular.io/), [React](https://facebook.github.io/react/), [VueJs](https://vuejs.org/), Vanilla Js or one of the other frameworks?
 ### What third party scripts will you be using?
