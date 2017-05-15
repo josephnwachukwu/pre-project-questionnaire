@@ -1,9 +1,8 @@
 # Front-End Pre-Project Questionnaire
-A short questionnaire to help establish a consistent workflow and implement basic front-end guidelines. 
+A short questionnaire to help establish a consistent workflow and implement basic front-end guidelines. The answers to these questions would be used to build the summary of the project or the read me.
 
 
 ## HTML
-
 ### What are some general priciples that you will follow when writing your markup
 - Will you be using any of the principes like semantic markup, accessibility, web components standards?
 
@@ -30,7 +29,6 @@ A short questionnaire to help establish a consistent workflow and implement basi
 - Will you be using a linter like [stylelint](https://github.com/stylelint/stylelint) or [stylefmt](https://github.com/morishitter/stylefmt) in your development?
 
 ## JavaScript
-
 ### Will you be following any Javascript Principles?
 - Will you be using any js standards such as [idomaticjs](https://github.com/rwaldron/idiomatic.js/), [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)?
 ### What Frameworks will you be using?
@@ -58,12 +56,15 @@ A short questionnaire to help establish a consistent workflow and implement basi
 ### Are you following section 508 compliance
 - Are you using section 508 complance and following their [guidelines](https://www.section508.gov/content/build/website-accessibility-improvement)?
 
-
 ## Build Process and Deployment
 ### Are you using any build tools and task managers for development?
 - Are you using [grunt](https://gruntjs.com/) or [gulp](http://gulpjs.com/) or just pure node scripts?
 ### Are you using a module loader?
 - Are you using a module loader like [webpack](https://webpack.github.io/) or [browserify](http://browserify.org/)?
+### Will you be using any dependency managers?
+- Will you be using a depenency manager like [bower](https://bower.io/), [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/)? 
+### Will you be using any scaffolds or starters?
+
 
 ## Continuous Integration and Version Control
 ### What Type of version control are you using?
@@ -75,7 +76,9 @@ A short questionnaire to help establish a consistent workflow and implement basi
 - Who will be responsible for approving and merging pull requests? 
 - Where will issues be tracked?
 
-## Performance
-
-
 ## Unit Testing
+### what libraries will you be using for unit tests
+- Will you be using [Karma](https://karma-runner.github.io/1.0/index.html), [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), [Jest](https://facebook.github.io/jest/) [Protractor](http://www.protractortest.org/#/), [Chai](http://chaijs.com/), [Sinon](http://sinonjs.org/), [quint](https://qunitjs.com/)
+### how often will you be performing unit tests
+- Will you be using a library like [husky](https://github.com/typicode/husky) to ensure that all code is tested before its checked in? 
+
