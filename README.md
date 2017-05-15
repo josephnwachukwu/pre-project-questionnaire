@@ -4,14 +4,24 @@ A short questionnaire to help establish a consistent workflow and implement basi
 
 ## HTML
 
+### What are some general priciples that you will follow when writing your markup
+- Will you be using any of the principes like semantic markup, accessibility, web components standards?
+
+### Will your markup be adhering to any standards
+- Will you be following standards like [W3C Standards](https://www.w3.org/standards/)?
+### Will you be using any templating or a preprocessor?
+- Will you be using an template engine like Mustache or Handlebars?
+- Will you be using a preprocessor like HAML or Jade?
+- Will you be writing your html in JSX for react or string literals for angular and typescript?
+
 
 ## CSS
-
+Will you be using any  
 
 ## JavaScript
 
 ### Will you be following any Javascript Principles?
-- Will you be using any js standards such as [idomaticjs](https://github.com/rwaldron/idiomatic.js/), [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)
+- Will you be using any js standards such as [idomaticjs](https://github.com/rwaldron/idiomatic.js/), [JavaScript Standard Style](https://standardjs.com/) or [AirBnb Javascript Standards](https://github.com/airbnb/javascript)?
 ### What Frameworks will you be using?
 - Will be using [Angular](https://angular.io/), [React](https://facebook.github.io/react/), [VueJs](https://vuejs.org/), Vanilla Js or one of the other frameworks?
 ### What third party scripts will you be using?
