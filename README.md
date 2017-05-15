@@ -63,10 +63,17 @@ A short questionnaire to help establish a consistent workflow and implement basi
 ### Are you using any build tools and task managers for development?
 - Are you using [grunt](https://gruntjs.com/) or [gulp](http://gulpjs.com/) or just pure node scripts?
 ### Are you using a module loader?
-- Are you using a module loader like [webpack](https://webpack.github.io/) or [browserify](http://browserify.org/)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-## Continuous Integration and Version Control
+- Are you using a module loader like [webpack](https://webpack.github.io/) or [browserify](http://browserify.org/)?
 
+## Continuous Integration and Version Control
+### What Type of version control are you using?
+- What version control system are you using for your front end code?
+### What platform will your code reside on?
+- Will you be keeping your front end code on a platform like [github](https://github.com/) or [bitbucket](https://bitbucket.org/) ?
+### What how will you manage branching?
+- Are you using any branching techniques like [git-flow](https://github.com/nvie/gitflow) or [github-flow](http://scottchacon.com/2011/08/31/github-flow.html) ?
+- Who will be responsible for approving and merging pull requests? 
+- Where will issues be tracked?
 
 ## Performance
 
